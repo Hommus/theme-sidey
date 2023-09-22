@@ -16,7 +16,8 @@ The Blank is a clean and minimalistic Publii boilerplate theme that is perfect f
 
 ### Author:
 
-Bob Mitro TidyCustoms ([@tidycustoms](http://twitter.com/tidycustoms) - [https://tidycustoms.net/](https://tidycustoms.net/))
+- Based on the theme [Sidey](https://github.com/ronv/sidey) by [ronv](https://github.com/ronv)
+- Publii blank theme by [Bob Mitro](http://twitter.com/tidycustoms)
 
 
 ### Documentation
